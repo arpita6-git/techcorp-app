@@ -6,5 +6,9 @@ A new feature has been added ny Rahul.
 New feature added by Arpit
 Main 1
 Bug 1
+<<<<<<< HEAD
 Main 2
 Main 3
+=======
+Bug 2
+>>>>>>> 674e030 (Bug 2)
